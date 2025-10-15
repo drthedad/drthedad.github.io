@@ -1,13 +1,11 @@
-# my-website
+# drthedad.github.io
 
-## Start building your website
+## Start building My Website
 
-Create and edit your site **right from this readme file!**.
-
-🪐 Or edit your entire site in a web-based editor by [clicking here](https://github.dev/username/my-website/).
+[Codespace](https://github.dev/drthedad/drthedad.github.io/).
 
 <details>
-  <summary><strong>📝 Creating and editing pages</strong></summary>
+  <summary><strong>📝 Steps to Creating and editing pages</strong></summary>
 
 ## Creating and editing pages and content
 
@@ -15,15 +13,16 @@ Create and edit your site **right from this readme file!**.
 
 Create your site's main content! Pages can be written in HTML or [Markdown](https://www.markdownguide.org/basic-syntax/)!
 
-* [Edit the homepage](https://github.com/username/my-website/edit/main/src/content/pages/index.md)
-* [Create a new page](https://github.com/username/my-website/new/main/?filename=/src/content/pages/&value=---%0Atitle%3A%20Enter%20page%20title%20here%0A---)
+* [Edit the homepage](https://github.com/drthedad/drthedad.github.io/edit/main/src/content/pages/index.md)
+
+* [Create a new page](https://github.com/drthedad/drthedad.github.io/new/main/?filename=/src/content/pages/&value=---%0Atitle%3A%20Enter%20page%20title%20here%0A---)
 
 <!--
 
 ---
 #### Posts
 Blog posts
-* [Create a new post](https://github.com/username/my-website/new/main/?filename=/src/content/posts/&value=----%0Atitle%3A%20%22Enter%20post%20title%22%0Adate%3A%20%222025-01-01%0A---)
+* [Create a new post](https://github.com/drthedad/drthedad.github.io/new/main/?filename=/src/content/posts/&value=----%0Atitle%3A%20%22Enter%20post%20title%22%0Adate%3A%20%222025-01-01%0A---)
 
 -->
 </details>
@@ -37,14 +36,14 @@ Blog posts
 
 Your site's navigation is how your users will get around! Edit the site's navigation menu in [JSON format](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)!
 
-* [Edit the navigation](https://github.com/username/my-website/edit/main/src/data/navigation.json)
+* [Edit the navigation](https://github.com/drthedad/drthedad.github.io/edit/main/src/data/navigation.json)
 
 ### Styles
 
 Colors, spacing, and fonts, oh my! You can edit your branding and styles here using CSS, SCSS, and CSS variables! 
 
-* [Edit your branding](https://github.com/username/my-website/edit/main/src/assets/styles/_branding.scss)
-* [Edit your overall styles](https://github.com/username/my-website/edit/main/src/assets/styles/styles.scss)
+* [Edit your branding](https://github.com/drthedad/drthedad.github.io/edit/main/src/assets/styles/_branding.scss)
+* [Edit your overall styles](https://github.com/drthedad/drthedad.github.io/edit/main/src/assets/styles/styles.scss)
 
 Learning CSS can be daunting but there are a ton of useful resources on the web. Check out [SmolCSS](https://smolcss.dev) to get started!
 
@@ -52,12 +51,12 @@ Learning CSS can be daunting but there are a ton of useful resources on the web.
 
 **Optional!** Add javascript functionality to your site
 
-* [Add Javascript](https://github.com/username/my-website/edit/main/src/assets/scripts/main.js)
+* [Add Javascript](https://github.com/drthedad/drthedad.github.io/edit/main/src/assets/scripts/main.js)
 
 </details>
 
 <details>
-  <summary><strong>🚀 Deploy my-website</strong></summary>
+  <summary><strong>🚀 Deploy drthedad.github.io</strong></summary>
 
 ## Deploy my-website
 
@@ -78,7 +77,7 @@ Once you set up deployment, any time you commit to your repository's `main` bran
 
 ### Setup:
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/username/my-website/)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/drthedad/drthedad.github.io/)
 
 
 </details>
